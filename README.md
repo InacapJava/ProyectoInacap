@@ -1,4 +1,1 @@
 # ProyectoInacap
-Nico weon
-
-grax
